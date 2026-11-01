@@ -1,23 +1,18 @@
 # Hi, I'm Tobias 👋
 
-I work on imitation learning and evaluation of sequential decision problems, mostly in
-Python, PyTorch and NumPy. I care less about training bigger models and more about
-measuring honestly whether a problem is hard: analytic floors instead of measured
-baselines, the expected value of the chosen action instead of the realized reward, and a
-power analysis before believing any difference.
+I build evaluations and environments for AI agents, with a focus on reliable scoring, reproducible tasks, and verifiable outcomes.
 
-Most of my professional work lives in private repositories, so this profile shows
-public, rebuilt-from-scratch versions of the kinds of problems I work on.
+My experience spans LLM evaluation and safety, long-horizon software-engineering and ML tasks, and corporate-finance workflows. I combine hands-on Python engineering with a background in banking, treasury, and model risk validation.
+
+Most of my professional work lives in private repositories. Here, I share independently built projects that demonstrate how I approach benchmark design, deterministic grading, reward-hacking defenses, and statistical evaluation.
 
 ## What I work with
 
-- **ML:** behavior cloning with DAgger, permutation-invariant (DeepSets-style) policies,
-  distribution shift, why REINFORCE fails where long cloning works
-- **Numerical engineering:** PyTorch → NumPy ports with numerical parity tests,
-  profiling hot paths, the small details that flip actions (`torch.std` applies Bessel's
-  correction and `numpy.std` does not)
-- **Measurement:** benchmark design, statistical power, paired comparisons, Bayesian
-  inference and approximate planning (lookahead, particle filters)
+- **AI evaluation:** LLM and agent benchmarks, golden datasets, rubric design, LLM-as-judge calibration, red-teaming, and regression testing.
+- **RL environments:** Long-horizon software-engineering, ML, and finance tasks with deterministic graders, hidden tests, verifiable rewards, and reward-hacking defenses.
+- **ML & numerical engineering:** Python, PyTorch, NumPy, imitation learning, distribution shift, numerical parity testing, and performance profiling.
+- **Measurement:** Benchmark difficulty, statistical power, paired comparisons, and reproducible experiments.
+- **Finance & risk:** Corporate-finance workflows, treasury, model validation, and IFRS 9, applied to realistic tasks and evaluations.
 
 ## Contact
 
